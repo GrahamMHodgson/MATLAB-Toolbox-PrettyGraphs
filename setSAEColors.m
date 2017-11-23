@@ -1,0 +1,12 @@
+colorSAEBlueLight = [  1 160 233];
+colorSAEBlueDark  = [  0  81 149];
+colorSAEGreenLight= [ 46 177  53];
+colorSAEGreenDark = [  0 119  61];
+colorSAEYellow    = [255 178   1];
+colorSAEOrange    = [234 113  37];
+colorSAERed       = [220  41  30];
+colorSAEGrayLight = [202 202 200];
+colorSAEGrayMed   = [154 155 157];
+colorSAEGrayDark  = [ 97  98 101];
+colorSAEWhite     = [255 255 255];
+colorSAEBlack     = [  0   0   0];
